@@ -9,8 +9,7 @@
 
 node8.7.0 + react@16.5.2 + redux@3.7.2 + react-router@3.2.0 + webpack@3.10.0 + axios@0.18.0 + less@2.7.1 + antd@3.18.2
 
-## 交流
-QQ群：159697743
+
 
 ## 项目运行
 
@@ -152,10 +151,3 @@ login(){
 
 
 
-## License
-
-[MIT](https://github.com/duxianwei520/react/blob/master/LICENSE)
-
-
-## 交流
-想跟其他的使用react的小伙伴们交流的话，可以加入我创建的reactQQ群：159697743
